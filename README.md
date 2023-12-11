@@ -15,7 +15,8 @@ Download VsCode, Xampp, dan Postman
 - Buatlah Database pada server Xampp dan import sql product dan categories pada file untuk membuat tablenya
 - Buatkan collection pada Postman seperti dibawah ini 
 
-![alt text](?raw=true)
+![alt text](https://github.com/Wildanamru/PHP-Rest-API-CRUD-MYSQL-Database/blob/main/Postman1.png?raw=true)
+![alt text](https://github.com/Wildanamru/PHP-Rest-API-CRUD-MYSQL-Database/blob/main/Postman2.png?raw=true)
     
 
 
